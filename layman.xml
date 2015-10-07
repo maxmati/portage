@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+ 
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>maxmati</name>
+		<description></description>
+		<homepage>https://github.com/maxmati/portage</homepage>
+		<owner>
+			<email>admin@maxmati.pl</email>
+		</owner>
+		<source type="git">https://github.com/maxmati/portage.git</source>
+	</repo>
+</repositories>
